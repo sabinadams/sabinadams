@@ -8,8 +8,7 @@
 ## A Bit About Me
 
 - 🙋🏻‍♂️ I'm Sabin Adams, and I've been working in web development for about 10 years now 🎉 <br/>
-- 💼 Currently a Developer Advocate at [Prisma](https://www.prisma.io/) ◭ <br/>
-- 🏔 Living in California with my wife and son <br/>
+- 🏔 Living in California with my wife and kids <br/>
 <br/>
 
 I love solving problems and making tools that make developers' lives easier. Teaching, speaking, and writing about web development is my passion!

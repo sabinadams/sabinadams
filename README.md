@@ -20,9 +20,6 @@ I love solving problems and making tools that make developers' lives easier. Tea
   <a href="https://twitter.com/sabinthedev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://sabinthedev.com/">
-    <img src="https://img.shields.io/badge/-Website-brightgreen" alt="SabinTheDev"/>
-  </a>
   <a href="https://sabinadams.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
